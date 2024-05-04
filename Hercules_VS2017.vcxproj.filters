@@ -1616,6 +1616,12 @@
     <None Include="util\zzsacard.bin">
       <Filter>Other Files\Utilities</Filter>
     </None>
+    <None Include="tests\3330.cckd64">
+      <Filter>Other Files\tests</Filter>
+    </None>
+    <None Include="tests\3380.cckd64">
+      <Filter>Other Files\tests</Filter>
+    </None>
     <None Include="tests\3390.cckd64">
       <Filter>Other Files\tests</Filter>
     </None>
@@ -1751,6 +1757,18 @@
     <None Include="tests\CLCLE-04-performance.core">
       <Filter>Other Files\tests\core</Filter>
     </None>
+    <None Include="tests\CU12-01-xpage.core">
+      <Filter>Other Files\tests\core</Filter>
+    </None>
+    <None Include="tests\CU12-02-performance.core">
+      <Filter>Other Files\tests\core</Filter>
+    </None>
+    <None Include="tests\CU14-01-xpage.core">
+      <Filter>Other Files\tests\core</Filter>
+    </None>
+    <None Include="tests\CU14-02-performance.core">
+      <Filter>Other Files\tests\core</Filter>
+    </None>
     <None Include="tests\CUSE-01-basic.core">
       <Filter>Other Files\tests\core</Filter>
     </None>
@@ -1767,6 +1785,9 @@
       <Filter>Other Files\tests\core</Filter>
     </None>
     <None Include="tests\FAC53.core">
+      <Filter>Other Files\tests\core</Filter>
+    </None>
+    <None Include="tests\GH615.core">
       <Filter>Other Files\tests\core</Filter>
     </None>
     <None Include="tests\TRE-01-basic.core">
@@ -2084,6 +2105,18 @@
     <None Include="tests\csxtr.tst">
       <Filter>Other Files\tests\scripts\tst</Filter>
     </None>
+    <None Include="tests\CU12-01-xpage.tst">
+      <Filter>Other Files\tests\scripts\tst</Filter>
+    </None>
+    <None Include="tests\CU12-02-performance.tst">
+      <Filter>Other Files\tests\scripts\tst</Filter>
+    </None>
+    <None Include="tests\CU14-01-xpage.tst">
+      <Filter>Other Files\tests\scripts\tst</Filter>
+    </None>
+    <None Include="tests\CU14-02-performance.tst">
+      <Filter>Other Files\tests\scripts\tst</Filter>
+    </None>
     <None Include="tests\CUSE-01-basic.tst">
       <Filter>Other Files\tests\scripts\tst</Filter>
     </None>
@@ -2097,6 +2130,9 @@
       <Filter>Other Files\tests\scripts\tst</Filter>
     </None>
     <None Include="tests\dfp-080-to-packed.tst">
+      <Filter>Other Files\tests\scripts\tst</Filter>
+    </None>
+    <None Include="tests\GH615.tst">
       <Filter>Other Files\tests\scripts\tst</Filter>
     </None>
     <None Include="tests\digest.tst">
@@ -2345,6 +2381,18 @@
     <None Include="tests\CLCLE-04-performance.asm">
       <Filter>Other Files\tests\scripts\asm</Filter>
     </None>
+    <None Include="tests\CU12-01-xpage.asm">
+      <Filter>Other Files\tests\scripts\asm</Filter>
+    </None>
+    <None Include="tests\CU12-02-performance.asm">
+      <Filter>Other Files\tests\scripts\asm</Filter>
+    </None>
+    <None Include="tests\CU14-01-xpage.asm">
+      <Filter>Other Files\tests\scripts\asm</Filter>
+    </None>
+    <None Include="tests\CU14-02-performance.asm">
+      <Filter>Other Files\tests\scripts\asm</Filter>
+    </None>
     <None Include="tests\CUSE-01-basic.asm">
       <Filter>Other Files\tests\scripts\asm</Filter>
     </None>
@@ -2361,6 +2409,9 @@
       <Filter>Other Files\tests\scripts\asm</Filter>
     </None>
     <None Include="tests\dc-float.asm">
+      <Filter>Other Files\tests\scripts\asm</Filter>
+    </None>
+    <None Include="tests\GH615.asm">
       <Filter>Other Files\tests\scripts\asm</Filter>
     </None>
     <None Include="tests\PERZAD.asm">
@@ -2564,6 +2615,30 @@
     <None Include="tests\CLCLE-04-performance.pdf">
       <Filter>Other Files\tests\scripts\asm\list</Filter>
     </None>
+    <None Include="tests\CU12-01-xpage.list">
+      <Filter>Other Files\tests\scripts\asm\list</Filter>
+    </None>
+    <None Include="tests\CU12-01-xpage.pdf">
+      <Filter>Other Files\tests\scripts\asm\list</Filter>
+    </None>
+    <None Include="tests\CU12-02-performance.list">
+      <Filter>Other Files\tests\scripts\asm\list</Filter>
+    </None>
+    <None Include="tests\CU12-02-performance.pdf">
+      <Filter>Other Files\tests\scripts\asm\list</Filter>
+    </None>
+    <None Include="tests\CU14-01-xpage.list">
+      <Filter>Other Files\tests\scripts\asm\list</Filter>
+    </None>
+    <None Include="tests\CU14-01-xpage.pdf">
+      <Filter>Other Files\tests\scripts\asm\list</Filter>
+    </None>
+    <None Include="tests\CU14-02-performance.list">
+      <Filter>Other Files\tests\scripts\asm\list</Filter>
+    </None>
+    <None Include="tests\CU14-02-performance.pdf">
+      <Filter>Other Files\tests\scripts\asm\list</Filter>
+    </None>
     <None Include="tests\CUSE-01-basic.list">
       <Filter>Other Files\tests\scripts\asm\list</Filter>
     </None>
@@ -2586,6 +2661,12 @@
       <Filter>Other Files\tests\scripts\asm\list</Filter>
     </None>
     <None Include="tests\dfp-080-to-packed.list">
+      <Filter>Other Files\tests\scripts\asm\list</Filter>
+    </None>
+    <None Include="tests\GH615.list">
+      <Filter>Other Files\tests\scripts\asm\list</Filter>
+    </None>
+    <None Include="tests\GH615.pdf">
       <Filter>Other Files\tests\scripts\asm\list</Filter>
     </None>
     <None Include="tests\PERZAD.list">
@@ -2702,6 +2783,9 @@
     <None Include="tests\semipriv.core">
       <Filter>Other Files\tests\core</Filter>
     </None>
+    <None Include="tests\ShiftLeft.core">
+      <Filter>Other Files\tests\core</Filter>
+    </None>
     <None Include="tests\kimd-hw.tst">
       <Filter>Other Files\tests\scripts\tst</Filter>
     </None>
@@ -2735,6 +2819,9 @@
     <None Include="tests\semipriv.tst">
       <Filter>Other Files\tests\scripts\tst</Filter>
     </None>
+    <None Include="tests\ShiftLeft.tst">
+      <Filter>Other Files\tests\scripts\tst</Filter>
+    </None>
     <None Include="tests\wild.tst">
       <Filter>Other Files\tests\scripts\tst</Filter>
     </None>
@@ -2765,6 +2852,9 @@
     <None Include="tests\semipriv.asm">
       <Filter>Other Files\tests\scripts\asm</Filter>
     </None>
+    <None Include="tests\ShiftLeft.asm">
+      <Filter>Other Files\tests\scripts\asm</Filter>
+    </None>
     <None Include="tests\stfl.asm">
       <Filter>Other Files\tests\scripts\asm</Filter>
     </None>
@@ -2790,6 +2880,12 @@
       <Filter>Other Files\tests\scripts\asm\list</Filter>
     </None>
     <None Include="tests\semipriv.list">
+      <Filter>Other Files\tests\scripts\asm\list</Filter>
+    </None>
+    <None Include="tests\ShiftLeft.list">
+      <Filter>Other Files\tests\scripts\asm\list</Filter>
+    </None>
+    <None Include="tests\ShiftLeft.pdf">
       <Filter>Other Files\tests\scripts\asm\list</Filter>
     </None>
     <None Include="tests\stfl.list">
@@ -2877,6 +2973,9 @@
       <Filter>Other Files\tests\core</Filter>
     </None>
     <None Include="tests\CCWILS.3390-1.comp-z">
+      <Filter>Other Files\tests</Filter>
+    </None>
+    <None Include="tests\datetime.rexx">
       <Filter>Other Files\tests</Filter>
     </None>
     <None Include="tests\CCW-ILS.asm">
